@@ -1,0 +1,32 @@
+{
+  "name": "@lazymac/k-mcp",
+  "version": "1.0.0",
+  "description": "K-MCP — Korean public data MCP server (PIPA, KRW, BRN, address, NLP) for Claude Code, Cursor, Windsurf",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "lazymac-k-mcp": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "korea",
+    "k-mcp",
+    "pipa",
+    "korean",
+    "krw",
+    "brn",
+    "developer-tools"
+  ],
+  "author": "lazymac2x",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
