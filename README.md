@@ -1,5 +1,7 @@
 # @lazymac/k-mcp
 
+> ⭐ **Building in public from $0 MRR.** Star if you want to follow the journey — [lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp) (42 tools, one MCP install) · [lazymac-k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) (Korean wedge) · [lazymac-sdk](https://github.com/lazymac2x/lazymac-sdk) (TS client) · [api.lazy-mac.com](https://api.lazy-mac.com) · [Pro $29/mo](https://coindany.gumroad.com/l/zlewvz).
+
 > **K-MCP — Korean wedge MCP server.** 9 tools for the data global SaaS need to ship in Korea: PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, Korean address geocoding, NLP, public data — all returned as English JSON.
 
 [![npm](https://img.shields.io/npm/v/@lazymac/k-mcp.svg)](https://www.npmjs.com/package/@lazymac/k-mcp)
