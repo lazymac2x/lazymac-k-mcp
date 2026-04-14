@@ -6,6 +6,7 @@
 
 [![npm](https://img.shields.io/npm/v/@lazymac/k-mcp.svg)](https://www.npmjs.com/package/@lazymac/k-mcp)
 [![smithery badge](https://smithery.ai/badge/@lazymac/k-mcp)](https://smithery.ai/server/lazymac/k-mcp)
+[![lazymac2x/lazymac-k-mcp MCP server](https://glama.ai/mcp/servers/lazymac2x/lazymac-k-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lazymac2x/lazymac-k-mcp)
 
 ## Install (Claude Desktop / Code / Cursor / Windsurf)
 
