@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["lazymac2x"],
+  "categories": ["developer-tools", "data-and-analytics", "international"],
+  "description": "K-MCP — Korean public data MCP server (PIPA, KRW exchange rate, business registration, address lookup, Korean NLP)",
+  "tools": []
+}
